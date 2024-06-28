@@ -16,6 +16,7 @@ Servicio de API desarrollada usando Nodejs y Express que permite registrar un us
 </p>
 
 <h5 align='center'>Autenticación de  usuario</h5>
+
 <p align='center'>
     <img src="screenshots/authentication-screenshot.png" width='80%'>
 </p>
